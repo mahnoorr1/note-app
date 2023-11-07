@@ -1,8 +1,7 @@
 # noteapp
 
-### Boilerplate
-
-It's clean boilerplate bundled with basic stuff which make the development very easy.
+- Notes Keeping and Personal Activities including Notes and Chat Application
+- Flutter Version: 3.0
 
 ## Setup
 
@@ -78,3 +77,7 @@ It's clean boilerplate bundled with basic stuff which make the development very 
   - `postHygen.dart` is triggered by `hygen` when new screen is generated.
   - `routes.dart` generates named routes in `lib/app_routes.dart` via looping through all the folders in `lib/screens`
   - `utils.dart` internal utils for scripts. shouldn't be consumed in project.
+
+## Gallery 
+
+- ![NoteApp](https://github.com/mahnoorr1/note-app/assets/91974252/32fbac08-adcf-450c-b541-7278ba5e3bfe)
